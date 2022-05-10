@@ -1,6 +1,5 @@
 ## Jamie's Data Science Portfolio
-Test
-You can use the [editor on GitHub](https://github.com/harperjamie/harperjamie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I work in the Data & Statistics Division of the Bank of England, and much of my work involves the application of data science and machine learning techniques to improve processes or automate. This site hosts personal projects I have worked on seperate from my work at the Bank, and also my writing on a range of topics in Data Science.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
